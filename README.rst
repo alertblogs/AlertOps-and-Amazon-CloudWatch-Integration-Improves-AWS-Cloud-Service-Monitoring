@@ -1,36 +1,22 @@
-AlertOps Expert Guidance
+AlertOps and Amazon CloudWatch Integration Improves AWS Cloud Service Monitoring
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Amazon CloudWatch is a very capable cloud monitoring service that collects data and tracks metrics for resource utilization, application performance, and operational health. It’s a very capable tool that helps AWS users optimize their cloud computing resources.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+But Amazon CloudWatch is only an monitoring tool.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+AlertOps expands CloudWatch’s utility with incident communication capabilities. Amazon CloudWatch does an excellent job of monitoring and reporting information. Integrating AlertOps and Amazon CloudWatch helps your teams respond to CloudWatch alerts faster and more efficiently.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+Here’s how AlertOps helps you get more from Amazon CloudWatch:
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+    Send custom messages with CloudWatch alerts using any field from the inbound JSON. This gives your teams vital troubleshooting information as soon as an alert is received.
+    Use topics to track incidents and route incident alerts to the right teams via text, voice, email, or mobile push notifications. Multi-channel alerts get faster response from on-call teams and automatically update managers and key stakeholders.
+    Automatically open and close incidents based on the alert status from CloudWatch. Automating incident creation and termination relieves your teams of repetitive tasks and reduces redundant work.
+    Route alerts to other systems. AlertOps routes alerts to other systems, such as ticketing systems, to automate customer service and incident response processes and incident escalation.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+AlertOps integrates with Amazon CloudWatch quickly and easily using our Generic REST API and Outbound API. Integration through our APIs offers all the capabilities listed here and more.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
-
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
+Find out what else Integrating AlertOps and Amazon CloudWatch can do for you, and learn how the integration works over in our help center.
 
 source:
 ====
